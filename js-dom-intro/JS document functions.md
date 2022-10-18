@@ -65,3 +65,35 @@ const importantParagraph = document.querySelector('#important-paragraph')
 
 After you have selected an element and stored it in a variable, you can use that variable to: change attribute values; change the inner text; append more elements, etc...
 
+# Removing an element
+
+After we have selected an Element from the page, we can remove that selected element in this way:
+
+https://developer.mozilla.org/en-US/docs/Web/API/Element/remove
+
+```js
+const selectedP = document.querySelector('p')
+selectedP.remove() // selectedP is taken out of the HTML page
+
+// i can then add it again
+document.body.appendChild(selectedP)
+```
+
+# Removing HTML permanently
+
+We can set the `innerHTML` property of an Element to an empty `""` string to delete all that HTML
+
+https://developer.mozilla.org/en-US/docs/Web/API/Element/innerHTML
+
+```html
+<ul>
+	<li>first item</li>
+	<li>second item</li>
+</ul>
+```
+
+```js
+const ul = document.querySelector('ul')
+ul.innerHTML = ''
+// both li have now been removed and don't exist on the page anymore
+```
