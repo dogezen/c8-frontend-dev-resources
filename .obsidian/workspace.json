@@ -20,43 +20,31 @@
             }
           },
           {
-            "id": "83109c214b5dbfeb",
+            "id": "61bf48cf6a718705",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "js-fundamentals/JS Objects.md",
+                "file": "events-and-forms/synchronous vs asynchronous code.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "23ba242a4429f45e",
+            "id": "44ae45b6ae41be67",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "js-fundamentals/JS Arrays.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "357f71485b1e9087",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "js-dom-intro/JS document functions.md",
+                "file": "events-and-forms/JS DOM Events.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -122,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "js-dom-intro/JS document functions.md",
+                "file": "events-and-forms/JS DOM Events.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "js-dom-intro/JS document functions.md",
+                "file": "events-and-forms/JS DOM Events.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "js-dom-intro/JS document functions.md"
+                "file": "events-and-forms/JS DOM Events.md"
               }
             }
           }
@@ -176,13 +164,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "357f71485b1e9087",
+  "active": "44ae45b6ae41be67",
   "lastOpenFiles": [
+    "events-and-forms/synchronous vs asynchronous code.md",
+    "events-and-forms/JS DOM Events.md",
+    "js-fundamentals/JS Arrays.md",
+    "Untitled.md",
+    "js-fundamentals/JS Objects.md",
+    "js-dom-intro/JS document functions.md",
     "js-fundamentals/Load JS in HTML Page.md",
     "js-fundamentals/array delete.md",
     "js-fundamentals/array create.md",
-    "js-fundamentals/JS Arrays.md",
-    "js-fundamentals/JS Functions.md",
-    "js-fundamentals/JS Objects.md"
+    "js-fundamentals/JS Functions.md"
   ]
 }
